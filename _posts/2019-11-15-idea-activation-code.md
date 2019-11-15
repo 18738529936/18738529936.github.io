@@ -9,9 +9,8 @@ author: zhq
 * content
 {:toc}
 
-## IDEA Activation Code
+## IDEA Ulimit正版激活码获取方式
 
-IDEA Ulimit正版激活码获取方式：
 1. 官方购买
 2. 使用edu教育邮箱申请，每年申请一次
 3. 通过GitHub上个人开源的超过3个月的项目申请，每年申请一次

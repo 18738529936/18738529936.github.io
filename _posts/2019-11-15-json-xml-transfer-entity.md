@@ -9,9 +9,8 @@ author: zhq
 * content
 {:toc}
 
-## Json/Xml Transfer Entity
+## 
 
-解决方案
 ```text
 json字符串转换为实体，建议使用插件“GsonFormat”
 

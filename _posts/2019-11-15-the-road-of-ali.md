@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "转自：一个学渣的阿里之路"
+title:  "一个学渣的阿里之路"
 categories: 面试
 tags: 面试 阿里
 author: zhq
@@ -9,7 +9,7 @@ author: zhq
 * content
 {:toc}
 
-## 转自：[一个学渣的阿里之路](https://mp.weixin.qq.com/s/Oh6aYI45c35qjhh8vgG5FQ)
+>转自：[一个学渣的阿里之路](https://mp.weixin.qq.com/s/Oh6aYI45c35qjhh8vgG5FQ)
 
 ---
 
