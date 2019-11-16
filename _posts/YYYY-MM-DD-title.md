@@ -9,8 +9,6 @@ author: zhq
 * content
 {:toc}
 
-这是一个简介描述！
-
 
 
 ## 章节标题
