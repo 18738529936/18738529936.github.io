@@ -10,7 +10,6 @@ author: zhq
 {:toc}
 
 
-
 ## 简单工厂模式-一
 ```java
 public class SuperClass {
@@ -36,6 +35,9 @@ public class SimpleFactory {
     }
 }
 ```
+
+
+
 ## 简单工厂模式-二
 
 ```java
