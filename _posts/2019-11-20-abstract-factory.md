@@ -11,6 +11,7 @@ author: zhq
 
 
 ```java
+
 public interface Product {
 }
 
@@ -58,6 +59,7 @@ public class FactoryB extends Factory {
 		return new ChannelB();
 	}
 }
+
 ```
 
 
