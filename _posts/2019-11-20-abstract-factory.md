@@ -46,7 +46,6 @@ public class FactoryA extends Factory {
 	}
 }
 
-
 public class FactoryB extends Factory {
 	@Override
 	public Product getProduct() {
