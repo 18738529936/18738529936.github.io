@@ -30,8 +30,6 @@ public class ChannelA extends Channel {
 public class ChannelB extends Channel {
 }
 
-
-
 public interface Factory {
 	Product getProduct();
 	Channel getChannel();
