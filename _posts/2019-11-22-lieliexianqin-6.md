@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "《烈烈先秦》6、六国的噩梦——大秦武安君白起"
-categories:文学 
+title: "《烈烈先秦》6、六国的噩梦——大秦武安君白起"
+categories: 文学 
 tags: 千古名将英雄梦 烈烈先秦
 author: zhq
 ---
